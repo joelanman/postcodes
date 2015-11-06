@@ -1,0 +1,2 @@
+resources/postcodes.csv filter=lfs diff=lfs merge=lfs -text
+resources/postcodeCoords.json filter=lfs diff=lfs merge=lfs -text
